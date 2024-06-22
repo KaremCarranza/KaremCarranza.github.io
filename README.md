@@ -1,2 +1,1 @@
-# KaremCarranza.github.io
-Repo entrega final
+# repositorioPreentrega2carranza
